@@ -10,7 +10,7 @@ Enterprise blockchain applications can be built on the public permissionless Eth
 
 ## Developer resources for private enterprise Ethereum {#developer-resources-private-enterprise-ethereum}
 
-### Organizations {#organisations}
+### Organizations {SAEED BIN SAAD ALAHMARI}
 
 Some collaborative efforts to make Ethereum enterprise friendly have been put together by different organizations:
 
